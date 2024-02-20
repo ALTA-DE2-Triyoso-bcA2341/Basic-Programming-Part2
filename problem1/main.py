@@ -1,5 +1,3 @@
-# input
 nama = "Kobar"
-
-
-# kode disini
+salam = "Hello" + " " + nama + "!" + "Saya Golang bahasa yang sangat menyenangkan"
+print(salam)
